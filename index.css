@@ -2,7 +2,7 @@
   width: 100%;
   position: relative;
 }
-.headsection .header .logo .header-logo {
+.headsection .header .logo .header-logo-item {
   position: absolute;
   float: left;
   left: 15%;
@@ -44,12 +44,12 @@
 }
 .headsection .header-item .header-item-headline,
 .headsection .header-item .greenbox-absolute,
-.headsection .header-item .section1-texttext,
-.headsection .header-item .section1-text {
+.headsection .header-item .header-item-texttext,
+.headsection .header-item .header-item-text {
   position: absolute;
   left: 15%;
 }
-.headsection .header-item .section1-headline {
+.headsection .header-item .header-item-headline {
   color: #292929;
   font-size: 25px;
   font-weight: 700;
