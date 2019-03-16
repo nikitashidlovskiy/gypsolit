@@ -806,14 +806,27 @@ header .header-part .info .input-tel {
   text-align: center;
 }
 .info-about-us {
-  background-image: url(images/bg-contacts.png);
-  height: 749px;
+  position: absolute;
+  margin-top: 7000px;
 }
 .info-about-us .cont {
+  margin-top: 300px;
+  margin-left: 200px;
   position: absolute;
   color: #292929;
   font-size: 36px;
   font-weight: 700;
   line-height: 58px;
-  text-align: left;
+}
+.info-about-us .cont-adres {
+  margin-top: 369px;
+  position: absolute;
+  margin-left: 197px;
+  font-size: 14px;
+}
+.info-about-us .cont-adres .map {
+  margin-top: 25px;
+}
+.info-about-us .cont-adres .cont-number {
+  margin-top: 36px;
 }
