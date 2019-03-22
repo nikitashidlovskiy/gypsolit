@@ -808,6 +808,8 @@ header .header-part .info .input-tel {
 .info-about-us {
   position: absolute;
   margin-top: 7000px;
+  font-size: 14px;
+  background-color: gray;
 }
 .info-about-us .cont {
   margin-top: 300px;
@@ -822,11 +824,43 @@ header .header-part .info .input-tel {
   margin-top: 369px;
   position: absolute;
   margin-left: 197px;
-  font-size: 14px;
 }
 .info-about-us .cont-adres .map {
   margin-top: 25px;
 }
 .info-about-us .cont-adres .cont-number {
   margin-top: 36px;
+}
+.info-about-us .cont-adres .c-number {
+  font-weight: 700;
+}
+footer {
+  width: 100%;
+  float: left;
+}
+footer .footer-item {
+  float: left;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+footer .footer-item .footer-logo {
+  float: left;
+}
+footer .footer-item .logo-text {
+  float: left;
+  margin-left: 10px;
+  margin-top: 5px;
+  width: 140px;
+}
+footer .info {
+  margin-top: 20px;
+  text-align: center;
+  float: left;
+  margin-left: 400px;
+}
+footer .kang {
+  float: right;
+  margin-top: 20px;
+  margin-right: 70px;
+  font-size: 15px;
 }
